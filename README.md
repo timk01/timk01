@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @timk01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-timk01/timk01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here i have projects from otus, including:
+- learning & some specific preparation to become java feveloper (learning, small tasks, to-remember problems, theory-to-problem tasks, etc.)
+- command project (flightsearcher)
