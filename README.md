@@ -1,3 +1,6 @@
-Here i have projects from otus, including:
-- learning & some specific preparation to become java feveloper (learning, small tasks, to-remember problems, theory-to-problem tasks, etc.)
-- command project (flightsearcher)
+Welcome.
+
+Here i have some recent projects from my study path. Most are for study, including self-study from different sources + particular ones like Otus with Javarush. 
+
+The latest one is a FlightSearcher - it' telegram bot which helps to find flight tickets and manage them, for additional info see:
+https://github.com/timk01/FlightSeracher-2022-08
