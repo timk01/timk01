@@ -26,7 +26,7 @@ From recent ones, it is Ylab - intensive course that was in March-April 2023 (mo
 
 https://github.com/timk01/Ylab
 
-**
+***
 
 Contact infoormation // Контактная информация
 
