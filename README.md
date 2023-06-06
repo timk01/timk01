@@ -12,6 +12,8 @@ The one from J-born is provided upon request.
 Contact infoormation
 
 TG: https://t.me/timk0111
+
 e-mail: timk01@mail.ru
+
 CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b
 
