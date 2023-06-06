@@ -4,19 +4,24 @@ Here i have some recent projects from my study path. Most are for study, includi
 
 // Здесь приведены некоторые проекты из моего изучения Java, большинство - самообучение и курсы, включая Отус и Джавараш.
 
-The latest one (which i can show openly) is a FlightSearcher - it' telegram bot which helps to find flight tickets and manage them, for additional info see:
 
-// Последний (что я показываю открыто) - FlightSearcher, это телеграм-бот, помощник для поиска авиа-билетов и операций над ними; смотреть ниже: 
+Team project (which i can show openly) is a FlightSearcher - it' telegram bot which helps to find flight tickets and manage them, for additional info see:
+
+// Последний командный (что я показываю открыто) - FlightSearcher, это телеграм-бот, помощник для поиска авиа-билетов и операций над ними; смотреть ниже: 
 
 https://github.com/timk01/FlightSeracher-2022-08
 
-The one from J-born is provided upon request (or i can demonstate in online via, say, Zoom)
 
-// По J-born проект предоставляется по запросу (впрочем могу показать онлайн, например в Зуме)
+The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom)
 
-From recent ones, it is Ylab - intensive course that was in March-April 2023 (mostly study assignments)
+// По J-born личный проект предоставляется по запросу (впрочем могу показать онлайн, например в Зуме)
 
-// А из недавних, это Ylab-интенсив, прошедший в Марте-Апреле 2023 (учебные задачи)
+
+From recent ones, it is Ylab - intensive course that was in March-April 2023 (mostly study assignments):
+
+// А из недавних, это Ylab-интенсив, прошедший в Марте-Апреле 2023 (учебные задачи):
+
+https://github.com/timk01/Ylab
 
 ***
 
