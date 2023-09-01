@@ -6,9 +6,9 @@ Here i have some recent projects from my study path. Most are for study, includi
 
 ***
 
-Team project (which i show openly) is a FlightSearcher - it' telegram bot which helps to find flight tickets and manage them, for additional info see:
+One of the latest team project is a FlightSearcher - it' telegram bot which helps to find flight tickets and manage them, for additional info see:
 
-// Последний командный (что я показываю открыто) - FlightSearcher, это телеграм-бот, помощник для поиска авиа-билетов и операций над ними; смотреть ниже: 
+// Последний командный - FlightSearcher, это телеграм-бот, помощник для поиска авиа-билетов и операций над ними; смотреть ниже: 
 
 https://github.com/timk01/FlightSeracher-2022-08
 
