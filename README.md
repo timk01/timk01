@@ -12,11 +12,16 @@ Team project (which i show openly) is a FlightSearcher - it' telegram bot which 
 
 https://github.com/timk01/FlightSeracher-2022-08
 
+J17; Spring Boot, Web, Data, JPA; БД - Postgres, flyway,
+Junit + Mockito; Docker; Git
+
 **
 
 The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom)
 
 // По J-born личный проект предоставляется по запросу (впрочем могу показать онлайн, например в Зуме)
+
+J11; Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase; Junit + Mockito; Docker; Git
 
 **
 
@@ -25,6 +30,12 @@ From recent ones, it is Ylab - intensive course that was in March-April 2023 (mo
 // А из недавних, это Ylab-интенсив, прошедший в Марте-Апреле 2023 (учебные задачи):
 
 https://github.com/timk01/Ylab
+
+***
+
+In August 2023 i started job4j-course
+
+// В Августе 2023 стал заниматься в job4j
 
 ***
 
