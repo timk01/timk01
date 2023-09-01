@@ -1,8 +1,8 @@
 Welcome.
 
-Here i have some recent projects from my study path. Most are for study, including self-study from different sources + particular ones like Otus with Javarush. 
+Here i have some recent projects from my study path. Most are for study, including self-study from different sources
 
-// Здесь приведены некоторые проекты из моего изучения Java, большинство - самообучение и курсы, включая Отус и Джавараш.
+// Здесь приведены некоторые проекты из моего изучения Java, большинство - самообучение и курсы
 
 ***
 
