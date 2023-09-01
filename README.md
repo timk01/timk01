@@ -17,9 +17,9 @@ Junit + Mockito; Docker; Git
 
 **
 
-The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom)
+The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom/Telegramm)
 
-// По J-born личный проект предоставляется по запросу (впрочем могу показать онлайн, например в Зуме)
+// По J-born личный проект предоставляется по запросу (впрочем могу показать онлайн, например в Зуме/ТГ)
 
 J11; Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase; Junit + Mockito; Docker; Git
 
