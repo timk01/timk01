@@ -27,6 +27,9 @@ https://github.com/timk01/Ylab
 
 In August 2023 i started job4j-course
 
+https://github.com/timk01/job4j_elementary
+https://github.com/timk01/job4j_tracker
+
 ***
 
 Contact infoormation // Контактная информация
