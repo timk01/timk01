@@ -22,7 +22,9 @@ The individual one from J-born is provided upon request (or i can demonstate in 
 ![Static Badge](https://img.shields.io/badge/%D0%91%D0%94%3A%20Postgres-purple),
 ![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
 ![Static Badge](https://img.shields.io/badge/Junit%20%2B%20Mockito-red);
-; Docker; Git
+![Static Badge](https://img.shields.io/badge/Docker-pink);
+![Static Badge](https://img.shields.io/badge/Maven-magenta);
+![Static Badge](https://img.shields.io/badge/Git-green)
 
 **
 
@@ -32,7 +34,7 @@ https://github.com/timk01/Ylab
 
 ***
 
-In August 2023 i started job4j-course
+In August 2023 i started job4j-course (from scratch)
 
 https://github.com/timk01/job4j_elementary
 https://github.com/timk01/job4j_tracker
