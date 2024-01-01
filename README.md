@@ -1,6 +1,6 @@
 Welcome.
 
-Here i have some recent projects from my study path. Most are for study, including self-study from different sources
+Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
 
 // Здесь приведены некоторые проекты из моего изучения Java, большинство - самообучение и курсы
 
@@ -8,7 +8,7 @@ Here i have some recent projects from my study path. Most are for study, includi
 
 One of the latest team project is a FlightSearcher - it' telegram bot which helps to find flight tickets and manage them, for additional info see:
 
-// Последний командный - FlightSearcher, это телеграм-бот, помощник для поиска авиа-билетов и операций над ними; смотреть ниже: 
+// FlightSearcher, это телеграм-бот, помощник для поиска авиа-билетов и операций над ними; смотреть ниже: 
 
 https://github.com/timk01/FlightSeracher-2022-08
 
