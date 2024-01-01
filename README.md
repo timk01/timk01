@@ -32,7 +32,7 @@ https://github.com/timk01/job4j_tracker
 
 ***
 
-Contact infoormation // Контактная информация
+Contact infoormation
 
 TG: https://t.me/timk0111
 
