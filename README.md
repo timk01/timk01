@@ -23,7 +23,7 @@ https://github.com/timk01/FlightSeracher-2022-08
 
 The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom/Telegramm)
 
-Same technologies as above +
+<em>Same stack as above and:</em> 
 ![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
 ![Static Badge](https://img.shields.io/badge/Junit%20%2B%20Mockito-red);
 
