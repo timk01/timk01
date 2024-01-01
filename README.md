@@ -15,8 +15,8 @@ Junit + Mockito; Docker; Git
 
 The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom/Telegramm)
 
-[J11](https://img.shields.io/badge/Java%20-%20%3E%3D%208%20-%20smth
-); Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase; Junit + Mockito; Docker; Git
+![Static Badge](https://img.shields.io/badge/Java%20-%20%3E%3D%208%20-%20smth)
+; Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase; Junit + Mockito; Docker; Git
 
 **
 
