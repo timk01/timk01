@@ -11,8 +11,6 @@ https://github.com/timk01/FlightSeracher-2022-08
 J17; Spring Boot, Web, Data, JPA; БД - Postgres, flyway,
 Junit + Mockito; Docker; Git
 
-https://img.shields.io/badge/any_text-you_like-blue
-
 **
 
 The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom/Telegramm)
