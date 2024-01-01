@@ -1,4 +1,4 @@
-Welcome.
+Welcome. :ru: :open_hands:
 
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
 
