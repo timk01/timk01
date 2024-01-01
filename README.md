@@ -1,4 +1,4 @@
-Welcome. :open_hands:
+Welcome. :open_hands::coffee:
 
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
 
@@ -52,4 +52,8 @@ TG: https://t.me/timk0111 (preferably)
 e-mail: timk01@mail.ru
 
 CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=timk01&hide=stars,prs,issues,contribs)
+
+
 
