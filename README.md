@@ -8,8 +8,16 @@ One of the latest team project is a FlightSearcher - it' telegram bot which help
 
 https://github.com/timk01/FlightSeracher-2022-08
 
-J17; Spring Boot, Web, Data, JPA; БД - Postgres, flyway,
-Junit + Mockito; Docker; Git
+![Static Badge](https://img.shields.io/badge/Java-%3D%2017-orange);
+![Static Badge](https://img.shields.io/badge/Spring-%3E%3D5.0-blue),
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-green),
+![Static Badge](https://img.shields.io/badge/Spring%3A%20Web%2C%20Data%2C%20JPA-dark%20green);
+![Static Badge](https://img.shields.io/badge/%D0%91%D0%94%3A%20Postgres-purple),
+![Static Badge](https://img.shields.io/badge/h2%2C%20flyway-purple);
+![Static Badge](https://img.shields.io/badge/Junit%20%2B%20Mockito-red);
+![Static Badge](https://img.shields.io/badge/Docker-pink);
+![Static Badge](https://img.shields.io/badge/Maven-magenta);
+![Static Badge](https://img.shields.io/badge/Git-green)
 
 **
 
