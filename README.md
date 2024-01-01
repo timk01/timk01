@@ -1,4 +1,4 @@
-Welcome. :ru: :open_hands:
+Welcome. :open_hands:
 
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
 
@@ -10,6 +10,8 @@ https://github.com/timk01/FlightSeracher-2022-08
 
 J17; Spring Boot, Web, Data, JPA; БД - Postgres, flyway,
 Junit + Mockito; Docker; Git
+
+https://img.shields.io/badge/any_text-you_like-blue
 
 **
 
