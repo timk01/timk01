@@ -26,6 +26,9 @@ The individual one from J-born is provided upon request (or i can demonstate in 
 <em>Same stack as above and:</em> 
 ![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
 ![Static Badge](https://img.shields.io/badge/Junit%20%2B%20Mockito-red);
+![Static Badge](https://img.shields.io/badge/CSS%2C%20HTML-blue);
+![Static Badge](https://img.shields.io/badge/GUI%20web%20development-red)
+
 
 **
 
@@ -44,7 +47,7 @@ https://github.com/timk01/job4j_tracker
 
 Contact infoormation
 
-TG: https://t.me/timk0111
+TG: https://t.me/timk0111 (preferably)
 
 e-mail: timk01@mail.ru
 
