@@ -55,5 +55,5 @@ CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=timk01&hide=stars,prs,issues,contribs)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timk01&layout=compact)](https://github.com/timk01/github-readme-stats)
 
