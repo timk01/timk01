@@ -15,9 +15,14 @@ Junit + Mockito; Docker; Git
 
 The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom/Telegramm)
 
-![Static Badge](https://img.shields.io/badge/Java-%3D%2011-orange)
-![Static Badge](https://img.shields.io/badge/Spring-%3E%3D5.0-blue)
- Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase; Junit + Mockito; Docker; Git
+![Static Badge](https://img.shields.io/badge/Java-%3D%2011-orange);
+![Static Badge](https://img.shields.io/badge/Spring-%3E%3D5.0-blue),
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-green),
+![Static Badge](https://img.shields.io/badge/Spring%3A%20Web%2C%20Data%2C%20JPA-dark%20green);
+![Static Badge](https://img.shields.io/badge/%D0%91%D0%94%3A%20Postgres-purple),
+![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
+![Static Badge](https://img.shields.io/badge/Junit%20%2B%20Mockito-red);
+; Docker; Git
 
 **
 
