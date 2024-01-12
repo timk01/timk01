@@ -41,6 +41,7 @@ In August 2023 i started job4j-course (from scratch)
 
 https://github.com/timk01/job4j_elementary<br>
 https://github.com/timk01/job4j_tracker
+https://github.com/timk01/job4j_design (started 12.01.24)
 
 ***
 
