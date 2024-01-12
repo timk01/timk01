@@ -42,7 +42,7 @@ In August 2023 i started job4j-course (from scratch)
 Intern level:
 (excluding ~3 months, 08.23 - 01.24) 
 https://github.com/timk01/job4j_elementary<br>
-https://github.com/timk01/job4j_tracker 
+https://github.com/timk01/job4j_tracker <br>
 
 Junior level:
 (12.01.24 - now)
