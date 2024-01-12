@@ -37,7 +37,7 @@ https://github.com/timk01/Ylab
 
 ***
 
-In August 2023 i started job4j-course (from scratch)
+In August 2023 i started job4j-course (from scratch in order to renew knowledge and close some gaps where they are)
 
 Intern level:<br />
 (excluding ~3 months, 08.23 - 01.24) <br />
