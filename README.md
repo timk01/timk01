@@ -39,14 +39,14 @@ https://github.com/timk01/Ylab
 
 In August 2023 i started job4j-course (from scratch)
 
-Intern level:
-(excluding ~3 months, 08.23 - 01.24) 
+Intern level:<br />
+(excluding ~3 months, 08.23 - 01.24) <br />
 https://github.com/timk01/job4j_elementary<br />
 https://github.com/timk01/job4j_tracker<br />
 
-Junior level:
-(12.01.24 - now)
-https://github.com/timk01/job4j_design 
+Junior level:<br />
+(12.01.24 - now)<br />
+https://github.com/timk01/job4j_design <br />
 
 ***
 
