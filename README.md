@@ -31,7 +31,7 @@ The individual one from J-born is provided upon request (or i can demonstate in 
 
 **
 
-From recent ones, it is Ylab - intensive course that was in March-April 2023 (mostly study assignments):
+From recent ones, it is Ylab - intensive course that was in March-May 2023 (mostly study assignments):
 
 https://github.com/timk01/Ylab
 
