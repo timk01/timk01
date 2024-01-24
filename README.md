@@ -21,13 +21,14 @@ https://github.com/timk01/FlightSeracher-2022-08
 
 **
 
-The individual one from J-born is provided upon request (or i can demonstate in online via, say, Zoom/Telegramm)
+The individual one from J-born is provided upon request <br />
+This one - currently in private repository, can add you here // or alternatively can demonstate in online via, say, Zoom/Telegramm
 
 <em>Same stack as above and:</em> 
 ![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
 ![Static Badge](https://img.shields.io/badge/CSS%2C%20HTML-blue);
 ![Static Badge](https://img.shields.io/badge/GUI%20web%20development-red)
-
++ front
 
 **
 
