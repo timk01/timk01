@@ -28,7 +28,7 @@ This one - currently in private repository (can't show openly, sorry), but can a
 ![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
 ![Static Badge](https://img.shields.io/badge/CSS%2C%20HTML-blue);
 ![Static Badge](https://img.shields.io/badge/GUI%20web%20development-red)
-+ front
+plus, Front web representation (browser)
 
 **
 
