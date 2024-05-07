@@ -1,6 +1,6 @@
 Welcome. :open_hands::coffee:
 
-<div class="tenor-gif-embed" data-postid="17955750" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/looking-for-a-job-job-jobless-unemployed-hire-me-gif-17955750">Looking For A Job Job GIF</a>from <a href="https://tenor.com/search/looking+for+a+job-gifs">Looking For A Job GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![looking-for-a-job-job](https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6)
 <br />
 
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
