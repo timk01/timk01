@@ -1,5 +1,6 @@
 Welcome. :open_hands::coffee:
 
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6)" width="40" height="40" />
 ![looking-for-a-job-job](https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6)
 <br />
 
