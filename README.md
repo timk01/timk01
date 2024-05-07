@@ -1,5 +1,7 @@
 Welcome. :open_hands::coffee:
 
+https://tenor.com/ru/view/looking-for-a-job-job-jobless-unemployed-hire-me-gif-17955749
+
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
 
 ***
@@ -40,15 +42,20 @@ https://github.com/timk01/Ylab
 
 In August 2023 i started job4j-course (from scratch in order to renew knowledge and close some gaps where they are)
 
-Intern level:<br />
+Level #1:<br />
 (excluding ~3 months, 08.23 - 01.24) <br />
-https://github.com/timk01/job4j_elementary<br />
-https://github.com/timk01/job4j_tracker<br />
+https://github.com/timk01/job4j_elementary - main repo <br />
+https://github.com/timk01/job4j_tracker - main technical project <br />
 
-Junior level:<br />
+Level #2:<br />
 (12.01.24 - now)<br />
-https://github.com/timk01/job4j_design <br />
-
+https://github.com/timk01/job4j_design - main repo <br />
+https://github.com/timk01/job4j_grabber - vacancies searcher (provides vacancy info from several pages of [hh](https://career.habr.com/vacancies/java_developer. ) <br />
+https://github.com/timk01/job4j_finder - file searcher in folder (including subfolders) via filename, mask, regex <br />
+https://github.com/timk01/job4j_tracker - continuation of tracker project from level #1
+- added database (postgesql), liquibase;
+- added tests for DB;
+- added profiling (switching between in-memory and DB).
 ***
 
 Contact infoormation
