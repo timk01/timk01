@@ -1,6 +1,6 @@
 Welcome. :open_hands::coffee:
 
-https://tenor.com/ru/view/looking-for-a-job-job-jobless-unemployed-hire-me-gif-17955749
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/ru/view/looking-for-a-job-job-jobless-unemployed-hire-me-gif-17955749))
 
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
 
