@@ -25,7 +25,7 @@ https://github.com/timk01/FlightSeracher-2022-08
 **
 
 The individual one from J-born is provided upon request <br />
-This one - currently in private repository (can't show openly, sorry), but can add you here // or alternatively can demonstate in online via, say, Zoom/Telegramm
+This one - currently in private repository (can't show at the moment), but can add you here // or alternatively can demonstate in online via, say, Zoom/Telegramm
 
 <em>Same stack as above and:</em> 
 ![Static Badge](https://img.shields.io/badge/h2%2C%20liquibase-purple);
