@@ -1,8 +1,6 @@
 Welcome. :open_hands::coffee:
 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6)" width="40" height="40" />
-<br />
-![looking-for-a-job-job](https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6)
+<img src="[/images/output/video1.gif](https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6)" width="50%" height="50%"/>
 <br />
 
 Here i have some recent projects from my study path of <strong>Java</strong>. Most are for study, including self-study from different sources. 
