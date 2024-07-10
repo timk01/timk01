@@ -41,7 +41,7 @@ https://github.com/timk01/Ylab
 
 ***
 
-in July, 2024 successfully graduated GPB IT Factory 2024 for java engineers 
+in July, 2024 successfully graduated GPB IT Factory 2024 academy for java engineers. https://gpb.fut.ru/itfactory/backend?utm_source=gpb&utm_medium=expert&utm_campaign=recommend&utm_content=all
 
 (repository link will be here a bit later)
 
