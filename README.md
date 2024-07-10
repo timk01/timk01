@@ -41,6 +41,12 @@ https://github.com/timk01/Ylab
 
 ***
 
+in July, 2024 successfully graduated GPB IT Factory 2024 for java engineers 
+
+(repository link will be here a bit later)
+
+***
+
 In August 2023 i started job4j-course (from scratch in order to renew knowledge and close some gaps where they are)
 
 Level #1:<br />
@@ -49,7 +55,7 @@ https://github.com/timk01/job4j_elementary - main repo <br />
 https://github.com/timk01/job4j_tracker - main technical project <br />
 
 Level #2:<br />
-(12.01.24 - ?, with break on GPBFactory (May 2024-now --> multimodule financial application project))<br />
+(12.01.24 - ?, with break on GPBFactory (April 2024-now --> multimodule financial application project))<br />
 https://github.com/timk01/job4j_design - main repo <br />
 https://github.com/timk01/job4j_grabber - vacancies searcher (provides vacancy info from several pages of [hh](https://career.habr.com/vacancies/java_developer. ) <br />
 https://github.com/timk01/job4j_finder - file searcher in folder (including subfolders) via filename, mask, regex <br />
