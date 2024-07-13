@@ -35,7 +35,7 @@ plus, Front web representation (browser)
 
 **
 
-From recent ones, it is Ylab - intensive course that was in March-May 2023 (mostly study assignments):
+in March-May 2023 completed intensive course Ylab  (mostly study assignments):
 
 https://github.com/timk01/Ylab
 
