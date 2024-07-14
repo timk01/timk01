@@ -67,13 +67,13 @@ https://github.com/timk01/job4j_tracker - continuation of tracker project from l
 - added profiling (switching between in-memory and DB).
 ***
 
-Contact infoormation
+Contact information
 
 TG: https://t.me/timk0111 (preferably)
 
 e-mail: timk01@mail.ru
 
-CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b
+CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b (open for offers)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=timk01&hide=stars,prs,issues,contribs)
 
