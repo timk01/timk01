@@ -59,7 +59,7 @@ https://github.com/timk01/job4j_tracker - main technical project <br />
 Level #2:<br />
 (12.01.24 - ?, with break on GPBFactory (April-July 2024) --> multimodule financial application project, see above))<br />
 https://github.com/timk01/job4j_design - main repo <br />
-https://github.com/timk01/job4j_grabber - vacancies searcher (provides vacancy info from several pages of [hh](https://career.habr.com/vacancies/java_developer. ) <br />
+https://github.com/timk01/job4j_grabber - vacancies searcher (provides vacancy info from several pages of [habr career](https://career.habr.com/vacancies/java_developer. ) <br />
 https://github.com/timk01/job4j_finder - file searcher in folder (including subfolders) via filename, mask, regex <br />
 https://github.com/timk01/job4j_tracker - continuation of tracker project from level #1
 - added database (postgesql), liquibase;
@@ -73,7 +73,7 @@ TG: https://t.me/timk0111 (preferably)
 
 e-mail: timk01@mail.ru
 
-CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b (open for offers)
+CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b (open for job offers/questions)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=timk01&hide=stars,prs,issues,contribs)
 
