@@ -57,7 +57,7 @@ https://github.com/timk01/job4j_elementary - main repo <br />
 https://github.com/timk01/job4j_tracker - main technical project <br />
 
 Level #2:<br />
-(12.01.24 - ?, with break on GPBFactory (April-July 2014) --> multimodule financial application project, see above))<br />
+(12.01.24 - ?, with break on GPBFactory (April-July 2024) --> multimodule financial application project, see above))<br />
 https://github.com/timk01/job4j_design - main repo <br />
 https://github.com/timk01/job4j_grabber - vacancies searcher (provides vacancy info from several pages of [hh](https://career.habr.com/vacancies/java_developer. ) <br />
 https://github.com/timk01/job4j_finder - file searcher in folder (including subfolders) via filename, mask, regex <br />
