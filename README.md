@@ -7,7 +7,7 @@ I'm java engineer. Freelance-working, but:
 ***
 
 My stack:
-Java 11-17; TG/external Api; Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase/flyway; Junit + Mockito; Docker; Git + GitHub/Gitlab, Gradle/Maven; микросервисы (Rest, Webclient); Slf4j
+Java 11-17; TG/external Api; Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase/flyway; Junit + Mockito; Docker; Git + GitHub/Gitlab, Gradle/Maven; микросервисы (Rest, Webclient); Slf4j; RabbitMQ
 
 ***
 
