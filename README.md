@@ -12,7 +12,6 @@ Java 11-17; TG/external Api; Spring, Spring Boot, Web, Data, JPA; БД - Postgre
 ***
 
 in July, 2024 successfully graduated GPB IT Factory 2024 academy for java engineers with top score.  
-https://gpb.fut.ru/itfactory/backend?utm_source=gpb&utm_medium=expert&utm_campaign=recommend&utm_content=all  
 
 https://github.com/timk01/gpb-factory--front-service    
 https://github.com/timk01/gpb-factory--middle-service  
