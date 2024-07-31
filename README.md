@@ -6,7 +6,7 @@ I'm java engineer. Freelance-working, but:
 
 ***
 
-projects methods: Agile, Scrum, Kanban
+projects methods: Agile, Scrum, Kanban <br />
 continuous integration (CI): Jenkins, Travis CI (Codecov.io, JaCoCo)
 continuous delivery (CD): Docker, Docker Compose
 brokers: Kafka, RabbitMQ
