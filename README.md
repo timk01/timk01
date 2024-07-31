@@ -6,9 +6,9 @@ I'm java engineer.
 
 ***
 
-- **Java**: 8-17, Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI
+- **Java**: 8-17 
 - **Spring**: Spring (Core, Boot, WEB (Rest), MVC, Security, Data JPA)
-- **Architecture**: Experience with monolithic architecture and microservices
+- **Architecture and approach**: Experience with monolithic architecture and microservices; using in work SOLID, TDD, KISS, DRY, YAGNI
 - **CI/CD**: Docker, Docker Compose, Jenkins
 - **Brokers**: Kafka, RabbitMQ
 - **DB**: PostgreSQL, H2, Liquibase/Flyway
