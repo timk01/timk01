@@ -1,29 +1,23 @@
 Welcome. :open_hands::coffee:  
-I'm java engineer. Freelance-working, but:  
+I'm java engineer. 
 
 <img src="https://github.com/timk01/timk01/assets/25296074/f7a76d65-1e8c-4c4a-afe2-d0a4342129c6" width="50%" height="50%"/>
 <br />
 
 ***
 
-projects methods: Agile, Scrum, Kanban <br />
-continuous integration (CI): Jenkins, Travis CI (Codecov.io, JaCoCo)
-continuous delivery (CD): Docker, Docker Compose
-brokers: Kafka, RabbitMQ
-have experience with microservices developing
-Spring base: Spring Framework, Spring Core, Spring Boot
-web: Spring WEB (Rest), Spring MVC, Lombok
-security: Spring Security
-db layer: Spring Data JPA, JPQL, JPA Named Queries
-Hibernate, HQL, jdbcTemplate, JDBC
-db: PostgreSQL, H2, Liquibase/Flyway
-front layer: Thymeleaf, JSTL, js, Bootstrap
-test: Mockito, JUnit 5, AssertJ, JUnit 4, Hamcrest
-log: Log4j, Slf4j
-build: Maven, Gradle
-utils: pgAdmin, Postman, curl
-other: Jsoup, Git, СheckStyle
-Java: 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI 
+- **Java**: 8-17, Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI
+- **Spring**: Spring (Core, Boot, WEB (Rest), MVC, Security, Data JPA)
+- **Architecture**: Experience with monolithic architecture and microservices
+- **CI/CD**: Docker, Docker Compose, Jenkins
+- **Brokers**: Kafka, RabbitMQ
+- **DB**: PostgreSQL, H2, Liquibase/Flyway
+- **Hibernate**: Hibernate, HQL, jdbcTemplate, JDBC
+- **Build**: Gradle, Maven
+- **JUnit**: Mockito, JUnit 5, AssertJ, JUnit 4, Hamcrest
+- **Slf4j**: Log4j, Slf4j
+- **Git**: Git, СheckStyle, GitHub Actions
+- **Other**: HTML/CSS, pgAdmin, Postman, curl
 
 ***
 
