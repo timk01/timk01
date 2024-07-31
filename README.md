@@ -6,8 +6,24 @@ I'm java engineer. Freelance-working, but:
 
 ***
 
-My stack:
-Java 11-17; TG/external Api; Spring, Spring Boot, Web, Data, JPA; БД - Postgres, h2, liquibase/flyway; Junit + Mockito; Docker; Git + GitHub/Gitlab, Gradle/Maven; микросервисы (Rest, Webclient); Slf4j; RabbitMQ
+projects methods: Agile, Scrum, Kanban
+continuous integration (CI): Jenkins, Travis CI (Codecov.io, JaCoCo)
+continuous delivery (CD): Docker, Docker Compose
+brokers: Kafka, RabbitMQ
+have experience with microservices developing
+Spring base: Spring Framework, Spring Core, Spring Boot
+web: Spring WEB (Rest), Spring MVC, Lombok
+security: Spring Security
+db layer: Spring Data JPA, JPQL, JPA Named Queries
+Hibernate, HQL, jdbcTemplate, JDBC
+db: PostgreSQL, H2, Liquibase/Flyway
+front layer: Thymeleaf, JSTL, js, Bootstrap
+test: Mockito, JUnit 5, AssertJ, JUnit 4, Hamcrest
+log: Log4j, Slf4j
+build: Maven, Gradle
+utils: pgAdmin, Postman, curl
+other: Jsoup, Git, СheckStyle
+Java: 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI 
 
 ***
 
