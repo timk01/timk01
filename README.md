@@ -8,6 +8,7 @@ I'm java engineer.
 
 - **Java**: 8-17 
 - **Spring**: Spring (Core, Boot, WEB (Rest), MVC, Security, Data JPA)
+- **Projects methods**: Agile, Scrum, Kanban
 - **Architecture and approach**: Experience with monolithic architecture and microservices; using in work SOLID, TDD, KISS, DRY, YAGNI
 - **CI/CD**: Docker, Docker Compose, Jenkins
 - **Brokers**: Kafka, RabbitMQ
