@@ -28,7 +28,7 @@ TG: https://t.me/timk0111 (preferably)
 
 e-mail: timk01@mail.ru
 
-CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b (open for job offers/questions)
+CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b (open for job offers/questions) - to be updated, link is not valid now
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=timk01&hide=stars,prs,issues,contribs)
 
