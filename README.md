@@ -22,13 +22,6 @@ I'm java engineer.
 
 ***
 
-in July, 2024 successfully graduated GPB IT Factory 2024 academy for java engineers with top score.  
-
-https://github.com/timk01/gpb-factory--front-service    
-https://github.com/timk01/gpb-factory--middle-service  
-
-***
-
 Contact information
 
 TG: https://t.me/timk0111 (preferably)
