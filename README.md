@@ -24,9 +24,9 @@ I'm java engineer.
 
 Contact information
 
-TG: https://t.me/timk0111 (preferably)
+TG: (https://t.me/tim_matv) (preferably)
 
-e-mail: timk01@mail.ru
+e-mail: timur_m85@bk.ru
 
 CV: https://hh.ru/resume/3d2a1f80ff0b7bca050039ed1f474b316a376b (open for job offers/questions) - to be updated, link is not valid now
 
